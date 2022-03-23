@@ -20,7 +20,7 @@ typedef struct{
     char curso[29];
     char grupo[9];
 }alumno;
-//ESTRUCTURA materias
+//ESTRUCTURA MATERIAS
 typedef struct{
     int id_materia[3];
     char nombre_materia[49];
